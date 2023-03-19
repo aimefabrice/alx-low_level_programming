@@ -21,7 +21,7 @@ for (dig1 = 0; dig1 < 8; dig1++)
 			if ((dig1 == 7) && (dig2 == 8) && (dig3 == 9))
 			continue;
 			putchar(',');
-			putchar(' ')
+			putchar(' ');
 		}
 	}
 }
